@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi! I am Justine Jornal, an aspiring Computer Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+Aspiring+Computer+Engineer)](https://git.io/typing-svg) how
